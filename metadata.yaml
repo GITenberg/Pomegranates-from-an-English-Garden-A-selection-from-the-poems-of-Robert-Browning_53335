@@ -1,0 +1,44 @@
+_repo: Pomegranates-from-an-English-Garden-A-selection-from-the-poems-of-Robert-Browning_53335
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Browning, Robert
+    birthdate: 1812
+    deathdate: 1889
+    gutenberg_agent_id: '146'
+    url: http://www.gutenberg.org/2009/agents/146
+    wikipedia: http://en.wikipedia.org/wiki/Robert_Browning
+  editor:
+    agent_name: Gibson, John Monro
+    aliases:
+    - Gibson, J. Monro
+    - Gibson, Monro
+    birthdate: 1838
+    deathdate: 1921
+    gutenberg_agent_id: '40829'
+    url: http://www.gutenberg.org/2009/agents/40829
+description: ''
+gutenberg_issued: '2016-10-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53335'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English poetry'
+- GITenberg
+tableOfContents: Introductory -- Home Thoughts, from Abroad -- Home Thoughts, from
+  the Sea -- “How they brought the Good News from Ghent to Aix” -- Echetlos -- Helen’s
+  Tower -- Shop -- The Boy and the Angel -- The Patriot -- Instans Tyrannus -- The
+  Lost Leader -- Love among the Ruins -- My Star -- Rudel to the Lady of Tripoli --
+  Never the Time and the Place -- Wanting is—What? -- Evelyn Hope -- Prospice -- Good,
+  to Forgive -- Touch him ne’er so Lightly -- Popularity -- The Guardian Angel --
+  Deaf and Dumb -- Abt Vogler -- One Word More -- Saul -- An Epistle -- Christmas-Eve
+  -- Easter-Day.
+title: 'Pomegranates from an English Garden
+
+  A selection from the poems of Robert Browning'
+url: http://www.gutenberg.org/ebooks/53335
